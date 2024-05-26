@@ -14,6 +14,10 @@ Para aquello, vamos a:
 5. Obtener resultados de la tasa de despidos, y características de despedidos.
 6. Crear un Tableau que refleje estos problemas y calcule el posible ahorro o pérdida de la empresa.
 
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/matias.gangui/viz/Layoffs_17166742173280/Dashboard1)
+
+   
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://portfoliomatiasgangui.my.canva.site)
