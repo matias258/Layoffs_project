@@ -1,18 +1,16 @@
 
-# Despidos
+# We received a database of employees from a company.
 
-Recibimos una base de datos sobre empleados de una empresa.
+Given the information we have, we aim to predict layoffs of these employees.
 
-Dada la información que obtenemos, buscamos predecir layoffs (despidos) de éstos últimos.
+To achieve this, we will:
 
-Para aquello, vamos a:
-
-1. Extraer la base de datos
-2. Limpiarla
-3. Analizarla
-4. Crear un sistema de predicción (en nuestro caso será usando Árboles de Decisiones)
-5. Obtener resultados de la tasa de despidos, y características de despedidos.
-6. Crear un Tableau que refleje estos problemas y calcule el posible ahorro o pérdida de la empresa.
+  1.  Extract the database
+  2.  Clean the data
+  3.  Analyze the data
+  4.  Create a prediction system (in our case, using Decision Trees)
+  5.  Obtain results on the layoff rate and characteristics of laid-off employees
+  6.  Create a Tableau dashboard that reflects these issues and calculates the potential savings or losses for the company.
 
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/matias.gangui/viz/Layoffs_17166742173280/Dashboard1)
 
