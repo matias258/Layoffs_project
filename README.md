@@ -1,6 +1,7 @@
+# Layoffs (Despidos)
 
-# We received a database of employees from a company.
 
+We received a database of employees from a company.
 Given the information we have, we aim to predict layoffs of these employees.
 
 To achieve this, we will:
