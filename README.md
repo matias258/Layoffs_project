@@ -13,6 +13,13 @@ To achieve this, we will:
   5.  Obtain results on the layoff rate and characteristics of laid-off employees
   6.  Create a Tableau dashboard that reflects these issues and calculates the potential savings or losses for the company.
 
+## Tools and Technologies
+    • CSV dataset.
+    • Jupyter Notebook (to analyse our data).
+    • Excel dataset (once we finished analysing).
+    • Tableau visualization tool.
+    • Machine Learning Decision Tree model for prediction.
+
 [![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://public.tableau.com/app/profile/matias.gangui/viz/Layoffs_17166742173280/Dashboard1)
 
    
